@@ -1,5 +1,5 @@
 # zoom-lagger
-Script simulating zoom connection problems, written in Python
+Script simulating zoom meeting connection problems, written in Python
 
 ## Getting Started
 
