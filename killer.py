@@ -22,5 +22,3 @@ while True:
     processes = findProcessIdByName('zoom')
     for process in processes:
         pauseAndResumeProcess(process['pid'])
-
-
