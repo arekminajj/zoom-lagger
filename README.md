@@ -13,7 +13,7 @@ pip3 install -r requirements.txt
 ```
 Finally, run the program
 ```
-python3 killer.py
+python3 lagger.py
 ```
 And chill, acting like you're trying to fix problems with zoom :sunglasses:
 
